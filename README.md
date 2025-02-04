@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VipulKau
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning React JavaScript   TypeScript logo   Node.js logo   Next.js logo   Express.js logo   GraphQL logo]   Redux logo   Firebase logo   MongoDB logo  
+- 🌱 I’m currently learning [React](https://github.com/albeniskerqeli10#bonjour--) JavaScript   TypeScript logo   Node.js logo   Next.js logo   Express.js logo   GraphQL logo]   Redux logo   Firebase logo   MongoDB logo  
 
 HTML5 logo   CSS3 logo   Tailwind CSS logo  
 Bootstrap logo   Sass logo   styled-components logo   git logo  
